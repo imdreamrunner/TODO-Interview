@@ -11,4 +11,4 @@ e.g.
     Google_2014_Sep_27.md
 
 Content:
-Please download [template.md]
+Please download (template.md)
