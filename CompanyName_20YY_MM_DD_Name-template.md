@@ -1,26 +1,28 @@
 ##Companay
 Google
-##Project
-Refactoring g+ to become facenote
+##Registered Project
+Some simple sentences to talk about your registered project.
+Do include tech details.
+Refactoring g+ to become facenote using Pascal programming language and MsSQL.
 
 ###I receive interview invitation by
-- [x] Email from company
+- [ ] Email from company
 - [ ] Email from NTU system
 - [ ] Phone call
 - [ ] SMS / Whatsapp
 - [ ] Others
 
 ###The interview was conducted
-- [x] On site
+- [ ] On site
 - [ ] Phone call
 - [ ] Video Chat
 - [ ] Others
 
 ###My dress code is
-- [x]  [Business casual](https://www.google.com.sg/search?client=ubuntu-browser&es_sm=122&tbm=isch&q=Business+Casual&spell=1&sa=X&ei=5j0hVLeAFcu58gWwuoGQAQ&ved=0CBkQvwUoAA)
-- [ ]  [Formal wear](https://www.google.com.sg/search?client=ubuntu-browser&es_sm=122&tbm=isch&q=Business+Casual&spell=1&sa=X&ei=5j0hVLeAFcu58gWwuoGQAQ&ved=0CBkQvwUoAA#tbm=isch&q=Formal+wear)
-- [ ]  [Smart casual](https://www.google.com.sg/search?q=Semi-formal&client=ubuntu-browser&es_sm=122&source=lnms&tbm=isch&sa=X&ei=rEAhVKqEOcil8AWKhYLoBA&ved=0CAgQ_AUoAQ&biw=1242&bih=599&dpr=1.1#tbm=isch&q=smart+casual+attire)
-- [ ] Informal attire
+- [ ] [Business casual](https://www.google.com.sg/search?client=ubuntu-browser&es_sm=122&tbm=isch&q=Business+Casual&spell=1&sa=X&ei=5j0hVLeAFcu58gWwuoGQAQ&ved=0CBkQvwUoAA)
+- [ ] [Formal wear](https://www.google.com.sg/search?client=ubuntu-browser&es_sm=122&tbm=isch&q=Business+Casual&spell=1&sa=X&ei=5j0hVLeAFcu58gWwuoGQAQ&ved=0CBkQvwUoAA#tbm=isch&q=Formal+wear)
+- [ ] [Smart casual](https://www.google.com.sg/search?q=Semi-formal&client=ubuntu-browser&es_sm=122&source=lnms&tbm=isch&sa=X&ei=rEAhVKqEOcil8AWKhYLoBA&ved=0CAgQ_AUoAQ&biw=1242&bih=599&dpr=1.1#tbm=isch&q=smart+casual+attire)
+- [ ]Informal attire
 
 ##Interview Flow
 e.g.
@@ -45,3 +47,7 @@ Do prepare well for XXXX & XXXX
 Don't put unrelated stuff on the desktop
 
 ##Remarks
+e.g.
+My interview took very short time.
+This interview did forcus on understanding of OOP/Database.
+The interviewer didn't give any comments/ACK on my answer.
