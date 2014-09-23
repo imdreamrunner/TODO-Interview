@@ -2,7 +2,9 @@
 Google
 
 Some simple sentences to talk about your registered project.
+
 Do include tech details.
+
 Refactoring g+ to become facenote using Pascal programming language and MsSQL.
 
 ####I receive interview invitation by
@@ -27,9 +29,13 @@ Refactoring g+ to become facenote using Pascal programming language and MsSQL.
 ##Interview Flow
 ####Self-Introduction
 Please fill in some topic you have talked. A simple list will do.
+
 1. I'm from NTU Computer Enginnering Year 3
+
 2. I'm a active github user
+
 3. I did ... before
+
 
 ####Q&A
     Q: What programming languages are you familiar with?
@@ -44,14 +50,20 @@ Please fill in some topic you have talked. A simple list will do.
 If any
 
 ##Summary
-The interviewer paid more attention to my project. He asked every details. Blah blah...
+The interviewer paid more attention to my project.
+
+He asked every details. Blah blah...
 
 ####Improvement/Suggestions
 Do prepare well for XXXX & XXXX
+
 Don't put unrelated stuff on the desktop
 
 ####Remarks
 e.g.
+
 My interview took very short time.
+
 This interview did forcus on understanding of OOP/Database.
+
 The interviewer didn't give any comments/ACK on my answer.
