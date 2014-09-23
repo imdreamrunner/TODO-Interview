@@ -22,10 +22,9 @@ Refactoring g+ to become facenote using Pascal programming language and MsSQL.
 - [ ] [Business casual](https://www.google.com.sg/search?client=ubuntu-browser&es_sm=122&tbm=isch&q=Business+Casual&spell=1&sa=X&ei=5j0hVLeAFcu58gWwuoGQAQ&ved=0CBkQvwUoAA)
 - [ ] [Formal wear](https://www.google.com.sg/search?client=ubuntu-browser&es_sm=122&tbm=isch&q=Business+Casual&spell=1&sa=X&ei=5j0hVLeAFcu58gWwuoGQAQ&ved=0CBkQvwUoAA#tbm=isch&q=Formal+wear)
 - [ ] [Smart casual](https://www.google.com.sg/search?q=Semi-formal&client=ubuntu-browser&es_sm=122&source=lnms&tbm=isch&sa=X&ei=rEAhVKqEOcil8AWKhYLoBA&ved=0CAgQ_AUoAQ&biw=1242&bih=599&dpr=1.1#tbm=isch&q=smart+casual+attire)
-- [ ] Informal attire
+- [ ] [Informal attire]()
 
 ##Interview Flow
-e.g.
 ####Self-Introduction
 Please fill in some topic you have talked. A simple list will do.
 1. I'm from NTU Computer Enginnering Year 3
@@ -33,11 +32,16 @@ Please fill in some topic you have talked. A simple list will do.
 3. I did ... before
 
 ####Q&A
-Q: What programming languages are you familiar with?
-A: C, C++ and Java
+    Q: What programming languages are you familiar with?
 
-Q: What's OOP according in your opinion?
-A: hmm.....
+    A: C, C++ and Java
+
+    Q: What's OOP according in your opinion?
+
+    A: hmm.....
+
+####Coding/Programming Test
+If any
 
 ##Summary
 The interviewer paid more attention to my project. He asked every details. Blah blah...
