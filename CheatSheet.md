@@ -2,6 +2,11 @@
 * [detailyang's Cheat Sheet](https://github.com/detailyang/cheat-sheets)
 * [shadowbq's Cheat Sheet](https://github.com/shadowbq/Cheat-Sheets)
 * [DZone](http://refcardz.dzone.com/)
+* [Our Favorite Cheat Sheets](http://whatis.techtarget.com/reference/Our-Favorite-Cheat-Sheets)
+* [quick reference sheets in one page](http://www.cheat-sheets.org/)
+
+##Math
+* [Math Notes by Paul](http://tutorial.math.lamar.edu/sitemap.aspx)
 
 ##algorithm
 * [bigo](http://bigocheatsheet.com/)
@@ -47,16 +52,28 @@
 * [Regular Expressions Cheat Sheet (V2)](https://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/)
 * [Regex Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)
 
-##git & github
+###Verilog
+* [Summary of Synthesisable Verilog 2001](http://www.cl.cam.ac.uk/teaching/1314/P33/files/verilogcheatsheet.pdf)
+* [Verilog Syntax Cheat Sheet](http://binaryllama.net/dropbox/fpga_meetup/materials/verilog.pdf)
+* [Quick Reference for Verilog HDL](http://web.stanford.edu/class/ee183/handouts_win2003/VerilogQuickRef.pdf)
 
-###git
+##Git & Github
+
+###Git
 * [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Eng.md)
 * [git_cheat_sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
-###github
+###Github
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
-##Linux
+##Operating System
+
+###Operating System Concepts
+* [Operating System on Wiki](http://en.wikipedia.org/wiki/Operating_system)
+* [Operating Systems Study Guide](http://www.sal.ksu.edu/faculty/tim/ossg/index.html)
+* [OS Final Exam study guide](https://www.cs.rutgers.edu/~pxk/416/exam/study-guide-final.html)
+
+###Linux
 * [Linux Bash Shell Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 * [Linux Cheat Sheet](http://images.linoxide.com/linux-cheat-sheet.pdf)
 * [Linux Command Line Cheat Sheet by DaveChild](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
@@ -77,3 +94,20 @@
 ###arduino
 * [Arduino_Cheat_Sheet.pdf](http://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf)
 * [Arduino-Cheat-Sheet by liffiton](https://github.com/liffiton/Arduino-Cheat-Sheet)
+
+###Circuit & Electrical
+* [Circuit Theory on Wikibook](http://en.wikibooks.org/wiki/Circuit_Theory)
+* [Electrical-Cheat-Sheet](http://www.scribd.com/doc/28653716/Electrical-Cheat-Sheet)
+* [Electric Current Cheat Sheet](http://www.physicstutorials.org/home/electric-current/electric-current-cheat-sheet)
+
+###Digital Signal Processing
+* [Signals & Systems For Dummies](http://www.dummies.com/how-to/content/signals-systems-for-dummies-cheat-sheet.html)
+* [Digital Signal Processing on Wikibook](http://en.wikibooks.org/wiki/Digital_Signal_Processing)
+* [Good Luck](http://www.keepcalm-o-matic.co.uk/p/keep-calm-and-die-already-6/)
+
+###Control System
+* [Control System on Wikipedia](http://en.wikipedia.org/wiki/Control_system)
+* [Control system on Wikibook](http://en.wikibooks.org/wiki/Control_Systems)
+* [PID controller on Wikipedia](http://en.wikipedia.org/wiki/PID_controller)
+
+
