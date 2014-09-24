@@ -12,6 +12,14 @@
 * [bigo](http://bigocheatsheet.com/)
 * [acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet)
 
+##Computer Organization and Architecture
+* [REVIEW OF COMPUTER ARCHITECTURE](http://mprolab.teipir.gr/vivlio80X86/comparch.pdf)
+* [Basic Computer Architecture](http://cse.unl.edu/~witty/class/embedded/material/note/architecture.pdf)
+* [Computer Architecture Review Guideline](http://cseweb.ucsd.edu/classes/wi06/cse141/Review.pdf)
+* [Study Material](http://www.ddegjust.ac.in/studymaterial/msc-cs/ms-07.pdf)
+
+##Computer Network
+
 ##Programming Languages
 
 ###C Programming Language
@@ -105,9 +113,26 @@
 * [Digital Signal Processing on Wikibook](http://en.wikibooks.org/wiki/Digital_Signal_Processing)
 * [Good Luck](http://www.keepcalm-o-matic.co.uk/p/keep-calm-and-die-already-6/)
 
+###Digital Communication
+
 ###Control System
 * [Control System on Wikipedia](http://en.wikipedia.org/wiki/Control_system)
 * [Control system on Wikibook](http://en.wikibooks.org/wiki/Control_Systems)
 * [PID controller on Wikipedia](http://en.wikipedia.org/wiki/PID_controller)
 
+###Microcontroller & Microprocessor
 
+###Embedded System
+
+
+##Other Topics
+
+###Computer Security
+
+###Data Mining
+
+###Machine Learning
+
+###Android
+
+###IOS
