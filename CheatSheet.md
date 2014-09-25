@@ -35,6 +35,9 @@
 ###Java
 * [Java Programming Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
 * [Java Programming Guide - Quick Reference](http://www.digilife.be/quickreferences/QRC/JAVA%20Programming%20Guide%20-%20Quick%20Reference.pdf)
+* [A blog about Java](http://www.programcreek.com/)
+* [Java Collections](http://www.programcreek.com/category/java-2/java-collections/)
+
 
 ###JavaScript
 * [javascript-cheat-sheet](https://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/)
@@ -85,6 +88,10 @@
 * [Linux Bash Shell Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 * [Linux Cheat Sheet](http://images.linoxide.com/linux-cheat-sheet.pdf)
 * [Linux Command Line Cheat Sheet by DaveChild](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
+
+###kernel
+* [Kernel on Wikipedia](http://en.wikipedia.org/wiki/Kernel_(operating_system))
+* [Kernel Map](http://www.makelinux.net/kernel_map/)
 
 ##OOP & Design Patterns
 
