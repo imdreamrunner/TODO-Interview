@@ -74,6 +74,11 @@
 * [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Eng.md)
 * [git_cheat_sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
+####Git vs Subversion
+* [GitSvnComparison](https://git.wiki.kernel.org/index.php/GitSvnComparsion)
+* [Git vs Subversion by Jeremiah Mahler](http://jmahler.github.io/git/2013/07/04/git_vs_svn.html)
+* [3 Reasons to Switch to Git from Subversion](http://markmcb.com/2008/10/18/3-reasons-to-switch-to-git-from-subversion/)
+
 ###Github
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
