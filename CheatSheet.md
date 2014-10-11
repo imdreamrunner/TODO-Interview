@@ -5,12 +5,17 @@
 * [Our Favorite Cheat Sheets](http://whatis.techtarget.com/reference/Our-Favorite-Cheat-Sheets)
 * [quick reference sheets in one page](http://www.cheat-sheets.org/)
 
+##Interview
+* [mrordinaire's interview collections](https://github.com/mrordinaire/interview)
+
 ##Math
 * [Math Notes by Paul](http://tutorial.math.lamar.edu/sitemap.aspx)
 
 ##algorithm
 * [bigo](http://bigocheatsheet.com/)
 * [acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet)
+* [Zhang Danyang's LeetCode](https://github.com/zhangdanyangg/LeetCode)
+* [soulmachine's LeetCode](https://github.com/soulmachine/leetcode)
 
 ##Computer Organization and Architecture
 * [REVIEW OF COMPUTER ARCHITECTURE](http://mprolab.teipir.gr/vivlio80X86/comparch.pdf)
@@ -144,6 +149,7 @@
 ###Data Mining
 
 ###Machine Learning
+*[soulmachine's cheat sheet in latex](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 ###Android
 
