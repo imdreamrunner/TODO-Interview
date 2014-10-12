@@ -146,7 +146,7 @@
 ###Data Mining
 
 ###Machine Learning
-*[soulmachine's cheat sheet in latex](https://github.com/soulmachine/machine-learning-cheat-sheet)
+* [soulmachine's cheat sheet in latex](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 ###Android
 
