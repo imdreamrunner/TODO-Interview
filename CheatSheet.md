@@ -34,9 +34,6 @@
 * [c11-a-cheat-sheet-alex-sinyakov](http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov) 
 * [cpp_reference_sheet.pdf](http://www.dreamincode.net/downloads/ref_sheets/cpp_reference_sheet.pdf)
 
-###haskell
-* [haskell](http://blog.codeslower.com/static/CheatSheet.pdf)
-
 ###Java
 * [Java Programming Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
 * [Java Programming Guide - Quick Reference](http://www.digilife.be/quickreferences/QRC/JAVA%20Programming%20Guide%20-%20Quick%20Reference.pdf)
