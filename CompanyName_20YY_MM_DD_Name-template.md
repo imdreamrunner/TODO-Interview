@@ -38,16 +38,21 @@ Please fill in some topic you have talked. A simple list will do.
 
 
 ####Q&A
-    Q: What programming languages are you familiar with?
+* What programming languages are you familiar with?
 
-    A: C, C++ and Java
+> C, C++ and Java
 
-    Q: What's OOP according in your opinion?
+* What's OOP according in your opinion?
 
-    A: hmm.....
+> hmm.....
 
 ####Coding/Programming Test
 If any
+
+####Questions for the interviewers
+1. So what do you think I should catch up with if I am selected?
+2. hmm?
+
 
 ##Summary
 The interviewer paid more attention to my project.
