@@ -95,7 +95,8 @@ I am familiar with C and Java.
 
 > Haha. Maybe their specifications are not them same comparing to other customers.
 
-> So, the OS are ready. What I need to do is to write a driver that interfacing with the microcontroller. And the communication is encrypted?"
+
+> So, actually, the project can be divided in to 2 parts right? the OS are ready. What I need to do is to write a driver that interfacing with the microcontroller. And make sure the communication is encrypted? The other part is the GUI client right?"
 
 * "Yes. The encryption code are also ready. It's just only for Windows"
 
