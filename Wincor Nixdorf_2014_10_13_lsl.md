@@ -106,12 +106,15 @@ I am familiar with C and Java.
 
 ####Coding/Programming Test
 None
+
 He didn't even ask anything about C or Java.
 
 ####Questions for the interviewers
- 1. It seems like I'm the only one who will be working on this project? Or it's in a team?
- - Not really. We are outsourcing some projects from SUTD and NTU also. If they have a group of students working on these, then we may want to see how it works.
- - I can help. But sometimes I'm fully occupied.
+> It seems like I'm the only one who will be working on this project? Or it's in a team?
+
+* Not really. We are outsourcing some projects from SUTD and NTU also. If they have a group of students working on these, then we may want to see how it works.
+
+* I can help. But sometimes I'm fully occupied.
  
 > Ya... Understand...
 
